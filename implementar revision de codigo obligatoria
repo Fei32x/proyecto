@@ -1,0 +1,8 @@
+Objetivo:
+
+Antes de aceptar cualquier Pull Request deberá existir una revisión por otro integrante del equipo.
+
+Criterio de aceptación:
+
+✔ Todos los PR tienen al menos una revisión.
+✔ Ningún cambio se fusiona directamente a main.
